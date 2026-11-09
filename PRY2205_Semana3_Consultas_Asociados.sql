@@ -2,7 +2,7 @@
 -- PRY2205 - SEMANA 3
 -- Actividad: Aplicando funciones de agrupacion
 -- Empresa: ASOCIADOS
--- Usuario de ejecucion: PRY2205_S3
+-- Usuario de ejecucion: PRY2205_S3.
 -- ============================================================
 
 
