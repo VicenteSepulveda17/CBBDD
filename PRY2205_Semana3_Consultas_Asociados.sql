@@ -3,13 +3,6 @@
 -- Actividad: Aplicando funciones de agrupacion
 -- Empresa: ASOCIADOS
 -- Usuario de ejecucion: PRY2205_S3
---
--- IMPORTANTE:
--- 1. Ejecutar conectado como PRY2205_S3.
--- 2. Ejecutar con F5 (Ejecutar script) en SQL Developer.
--- 3. Caso 1 solicita VALOR_TOTAL_GASTO_COMUN.
--- 4. Caso 2 solicita CODIGO_SUCURSAL.
--- 5. Los importes se muestran redondeados a enteros.
 -- ============================================================
 
 
